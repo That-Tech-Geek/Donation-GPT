@@ -1,0 +1,8 @@
+streamlit
+chatterbot
+chatterbot_corpus
+sqlalchemy
+pint
+python-dateutil
+pytz
+spacy
